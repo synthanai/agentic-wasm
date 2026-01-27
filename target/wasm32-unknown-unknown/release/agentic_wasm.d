@@ -1,0 +1,1 @@
+/Users/naveen/Documents/Documents\ -\ M1/My\ Books/SYNTHAI/synthai-master-repo/repos/agentic-wasm/target/wasm32-unknown-unknown/release/agentic_wasm.wasm: /Users/naveen/Documents/Documents\ -\ M1/My\ Books/SYNTHAI/synthai-master-repo/repos/agentic-wasm/src/lib.rs
